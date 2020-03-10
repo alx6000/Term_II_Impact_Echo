@@ -51,12 +51,12 @@ The goal of this study was to develop an impact-echo device that can conduct aut
 ######   Possible applications
 
 
-![](Impact_Echo_Intro/Post_earthquake_damage_detection.jpg)
-        Post earthquake damage detection
+![](Impact_Echo_Intro/Post_earthquake_damage_detection.jpg) 
+ ###### Post earthquake damage detection
         
         
  ![](Impact_Echo_Intro/Post_earthquake_damage_detection1.jpg)
-        Structural analysis for old building renovation
+ ###### Structural analysis for old building renovation
 
 
 
