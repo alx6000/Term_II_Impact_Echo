@@ -73,42 +73,12 @@
 ![](Impact_Echo_Intro/Analysis.jpg)
 
 
-###                     Advantages 
+###                     Advantages & Applications
 
 
 ![](Impact_Echo_Intro/Diagrams/adds01.jpg)
 
-  ###### Only one surface needs to be accessible for testing.
-
-  ###### No Coring
-
-  ###### Detects concrete abnormalities
-
-  ###### Location of the defects depth and lateral location
-
-  ###### Can be used to predict early age strength
-
-  ###### Low computational cost
-
-###                      Applications
- ###### Plates 
- ###### Slabs
- ###### Pavements  
- ###### Walls 
- ###### Decks 
-
- ###### Columns & beams 
- ###### Round  
- ###### Square  
- ###### Rectangular 
- ###### T cross-sections
-
- ###### Hollow cylinders
- ###### Pipes  
- ###### Tunnels  
- ###### Mine shaft liners
- ###### Tanks 
-
+ 
 
 ![](Impact_Echo_Intro/Concrete_Imgs.jpg)
 
