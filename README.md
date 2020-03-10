@@ -1,6 +1,6 @@
 # Term_II_Impact_Echo 
 
-❮img src="Impact_Echo_Intro/1stDetectiongif.gif" width="100" ❯
+❮img src='Impact_Echo_Intro/1stDetectiongif.gif' width="100" ❯
 
 
 ![](Impact_Echo_Intro/Mario.gif) ![](Impact_Echo_Intro/1stDetectiongif.gif) 
