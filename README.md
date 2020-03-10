@@ -75,6 +75,9 @@
 
 ###                     Advantages 
 
+
+![](Impact_Echo_Intro/Diagrams/adds01.jpg)
+
   ###### Only one surface needs to be accessible for testing.
 
   ###### No Coring
