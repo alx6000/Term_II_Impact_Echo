@@ -5,6 +5,7 @@
 **Description**
 A method for nondestructive testing of concrete and masonry structures that is based on the use of impact-generated stress (sound) waves that propagate through concrete and masonry and are reflected by internal flaws and external surfaces. 
 
+❮img src="Impact_Echo_Intro/Intro1.jpg" width="100" ❯
 ![](Impact_Echo_Intro/Intro1.jpg)
 
 
