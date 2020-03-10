@@ -72,6 +72,8 @@
 ######  Methods
 
 ![](Impact_Echo_Intro/ImpactEcho_Concrete_Crack_Detection.png)
+![](Impact_Echo_Intro/Analysis.jpg)
+
 
 
 
