@@ -125,10 +125,11 @@
 ![](Audacity/Agisoft.gif)
 
 
+######   Denoising Recording
+
 ###### * [Audacity](https://github.com/alx6000/Term_II_Impact_Echo/tree/master/Audacity)
 
 
-###### Denoising Recording
 
 **Requirements**
 
