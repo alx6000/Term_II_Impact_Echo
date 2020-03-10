@@ -109,7 +109,7 @@
 
 ###### 3d Spectrogram 
 ![](SignView/Signview.jpg)
-###### A spectrogram is a visual representation of the spectrum of frequencies of a signal as it varies with time. 
+######  Spectrogram - Visual representation of the spectrum of frequencies of a signal as it varies with time. 
 
 ###### * [SignView](https://github.com/alx6000/Term_II_Impact_Echo/tree/master/SignView)
 
