@@ -66,7 +66,7 @@
 
 ######  Methods
 
-![](Impact_Echo_Intro/ImpactEcho_Concrete_Crack_Detection.png)
+![](Impact_Echo_Intro/Anomalies.png)
 
 ### Impact echo
 ###### Impact Echo is a method for nondestructive evaluation of concrete and masonry. It is based on the use of impact-generated compression waves that travel through the structure and are reflected by internal flaws and external surfaces.
