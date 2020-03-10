@@ -66,7 +66,7 @@
 
 ######  Methods
 
-![](Impact_Echo_Intro/Anomalies01.png)
+
 
 ### Impact echo
 ###### Impact Echo is a method for nondestructive evaluation of concrete and masonry. It is based on the use of impact-generated compression waves that travel through the structure and are reflected by internal flaws and external surfaces.
@@ -126,8 +126,9 @@
 
 ######   Identifying Anomalies
 
+![](Audacity/Anomalies01.png)
 
-![](Audacity/Anomalies.png)
+
 
 
 ###### * [Audacity](https://github.com/alx6000/Term_II_Impact_Echo/tree/master/Audacity)
