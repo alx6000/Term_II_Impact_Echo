@@ -78,6 +78,13 @@
 
 ###                     Application
 ####              Grid Setup - Positioning Piezosensors & Selonoid
+#### Concrete Block Placement
+#### Measure Dimensions 
+#### Place the Grid		
+#### Put Sensor on strategic Point
+#### Hit on exact locations using the hammer
+
+
 
 
 ![](Impact_Echo_Intro/HARDWARE-GIFxxx.gif)
