@@ -1,6 +1,12 @@
 #  Term_II_Impact_Echo 
 
+
+##    **Description**
 ######  A Digital Exploration 
+
+   
+* * A method for nondestructive testing of concrete and masonry structures that is based on the use of impact-generated stress (sound) waves that propagate through concrete and masonry and are reflected by internal flaws and external surfaces. 
+
 
 
 ![](Impact_Echo_Intro/Mario.gif) 
@@ -87,7 +93,7 @@
 
 ###                     Application
 ####              Grid Setup - Positioning Piezosensors & Selonoid
-![](Impact_Echo_Intro/Diagrams/HARDWARE-GIF1.gif)
+![](Impact_Echo_Intro/Diagrams/HARDWARE-GIFxxx.gif)
 
 
 ## Software
