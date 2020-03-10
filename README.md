@@ -32,22 +32,17 @@
 A method for nondestructive testing of concrete and masonry structures that is based on the use of impact-generated stress (sound) waves that propagate through concrete and masonry and are reflected by internal flaws and external surfaces. 
 
 
-Problem outline 
 
-    Possible applications 
-
-
-
-
-
-
-![](Impact_Echo_Intro/Intro1.jpg)
 
 
 
 **Project_Scope**
 
 The goal of this study was to develop an impact-echo device that can conduct automatic oscillation tests, process signals rapidly, and apply it to concrete object anomaly analysis. The system presented in this study comprises three parts, namely the impact device, the oscillator circuit, and signal processing software.
+
+![](Impact_Echo_Intro/Intro1.jpg)
+
+
 
 
 
