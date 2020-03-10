@@ -3,26 +3,25 @@
 ![](Impact_Echo_Intro/Mario.gif) 
 
 
-Proposal
+-Proposal
 
-Non destructive testing
+-Non destructive testing
 
-Impact Echo Method
+-Impact Echo Method
 
-Overall System
-Diagram
-Possible evolutions
-Focus points
+-Overall System
+    -Diagram
+    -Possible evolutions
+    -Focus points
 
-Hardware
-Diagram
-Piezo sensor configuration
+-Hardware
+     -Diagram
+     -Piezo sensor configuration
 
-Software
-Diagram
-Alternatives
+-Software
+     -Diagram
+     -Outcome
 
-Next Steps
 
 
 
