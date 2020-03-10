@@ -141,7 +141,7 @@
 
 ###### Tangible Python Library Experimentation
 
-![](Python/Python.png)
+
 
 **Requirements**
 
