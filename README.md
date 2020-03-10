@@ -1,8 +1,8 @@
-##  Term_II_Impact_Echo 
+#  Term_II_Impact_Echo 
 
 ![](Impact_Echo_Intro/Mario.gif) 
 
-#    Index 
+##    Index 
 
     -Proposal
 
