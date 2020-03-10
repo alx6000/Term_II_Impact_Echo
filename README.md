@@ -136,6 +136,7 @@
 ###### Experimentation - Visualisation
 
 ![](Python/Python_G2.gif)
+![](Python/Python.png)
 
 
 ###### Tangible Python Library Experimentation
