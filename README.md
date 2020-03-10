@@ -63,7 +63,8 @@
  
  
   ![](Impact_Echo_Intro/Construction_Site_evaluation.jpg)
- ###### Structural analysis for old building renovation
+ ###### Construction-site evaluation 
+
 
 
 
