@@ -14,17 +14,17 @@
    ###### -Impact Echo Method
 
    ###### -Overall System
-      ######      -Diagram
-      ######      -Possible evolutions
-      ######      -Focus points
+            -Diagram
+            -Possible evolutions
+            -Focus points
 
    ###### -Hardware
-      ######      -Diagram
-      ######      -Piezo sensor configuration
+            -Diagram
+            -Piezo sensor configuration
 
    ###### -Software
-      ######      -Diagram
-      ######      -Outcome
+            -Diagram
+            -Outcome
 
 
 
