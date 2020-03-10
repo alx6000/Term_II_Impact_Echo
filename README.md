@@ -85,6 +85,10 @@
 
 ![](Impact_Echo_Intro/Concrete_Imgs.jpg)
 
+###                     Application
+####              Grid Setup - Positioning Piezosensors & Selonoid
+![](Impact_Echo_Intro/Diagrams/HARDWARE-GIF.gif)
+
 
 ## Software
 
