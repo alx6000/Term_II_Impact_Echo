@@ -78,11 +78,39 @@
 ![](Impact_Echo_Intro/Analysis.jpg)
 
 
-###                                 Impact echo
-######                     Advantages & Applications
+###                     Advantages & Applications
 
+  ###### Only one surface needs to be accessible for testing.
 
-![](Impact_Echo_Intro/Advantages.jpg)
+  ###### No Coring
+
+  ###### Detects concrete abnormalities
+
+  ###### Location of the defects depth and lateral location
+
+  ###### Can be used to predict early age strength
+
+  ###### Low computational cost
+
+###                      Applications
+ ###### Plates 
+ ###### Slabs
+ ###### Pavements  
+ ###### Walls 
+ ###### Decks 
+
+ ###### Columns & beams 
+ ###### Round  
+ ###### Square  
+ ###### Rectangular 
+ ###### T cross-sections
+
+ ###### Hollow cylinders
+ ###### Pipes  
+ ###### Tunnels  
+ ###### Mine shaft liners
+ ###### Tanks 
+
 
 
 **Requirements**
