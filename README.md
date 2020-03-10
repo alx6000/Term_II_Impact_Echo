@@ -112,6 +112,8 @@
  ###### Tanks 
 
 
+![](Impact_Echo_Intro/Concrete_Imgs.jpg)
+
 
 **Requirements**
 
