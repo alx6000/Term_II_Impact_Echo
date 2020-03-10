@@ -80,6 +80,7 @@
 ####              Grid Setup - Positioning Piezosensors & Selonoid
 
 
+![](Impact_Echo_Intro/HARDWARE-GIFxxx.gif)
 
 ## Software
 
