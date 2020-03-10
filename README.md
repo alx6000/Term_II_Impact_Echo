@@ -122,7 +122,7 @@
 
 ## Matlab
 ![](MATLAB/Matlab_F.png)
-![](MATLAB/Matlab_F1.png)
+![](MATLAB/Matlab_Diagrams.png)
 
 **Requirements**
 
