@@ -50,7 +50,8 @@ Problem outline
 
     Possible applications 
     Post_Earthquake_Damage_Detection
-    ![](Impact_Echo_Intro/Post_earthquake damage_detection.jpg)
+  
+ ![](Impact_Echo_Intro/Post_earthquake damage_detection.jpg)
 
 
 
