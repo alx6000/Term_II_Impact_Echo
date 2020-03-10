@@ -2,7 +2,7 @@
 
 ![](Impact_Echo_Intro/Mario.gif) 
 
-#Index 
+#    Index 
 
     -Proposal
 
@@ -28,7 +28,7 @@
 
 
 
-#**Description**
+#    **Description**
 
     
 A method for nondestructive testing of concrete and masonry structures that is based on the use of impact-generated stress (sound) waves that propagate through concrete and masonry and are reflected by internal flaws and external surfaces. 
@@ -48,7 +48,7 @@ The goal of this study was to develop an impact-echo device that can conduct aut
 
 ##  **Problem outline**
 
-######Possible applications**
+######   Possible applications
 
 
 ![](Impact_Echo_Intro/Post_earthquake_damage_detection.jpg)
