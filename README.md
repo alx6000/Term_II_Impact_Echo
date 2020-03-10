@@ -122,6 +122,11 @@
 
 ######   Denoising Recording
 
+###### Recording Generation & First Visualisation 
+![](Audacity/200903_ImpactEcho_Concrete_Crack_Detection.png)
+
+######   Identifying Anomalies
+
 ###### * [Audacity](https://github.com/alx6000/Term_II_Impact_Echo/tree/master/Audacity)
 
 
