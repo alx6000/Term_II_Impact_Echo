@@ -48,10 +48,10 @@ The goal of this study was to develop an impact-echo device that can conduct aut
 
 Problem outline 
 
-    Possible applications 
-    Post_Earthquake_Damage_Detection
-  
-![](Impact_Echo_Intro/Post_earthquake damage_detection.jpg)
+Possible applications 
+
+Post_Earthquake_Damage_Detection
+![](Impact_Echo_Intro/Post_earthquake_damage_detection.jpg)
 
 
 
