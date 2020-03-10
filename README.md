@@ -7,24 +7,24 @@
 
 ##    Index 
 
-    ###### -Proposal
+   ###### -Proposal
 
-    ###### -Non destructive testing
+   ###### -Non destructive testing
 
-    ###### -Impact Echo Method
+   ###### -Impact Echo Method
 
-    ###### -Overall System
-     ###### -Diagram
-     ###### -Possible evolutions
-        ###### -Focus points
+   ###### -Overall System
+   ######   -Diagram
+   ######   -Possible evolutions
+   ######   -Focus points
 
-    ###### -Hardware
-       ###### -Diagram
-        ###### -Piezo sensor configuration
+   ###### -Hardware
+   ######    -Diagram
+   ######    -Piezo sensor configuration
 
-    ###### -Software
-        ###### -Diagram
-         ###### -Outcome
+   ###### -Software
+   ######    -Diagram
+   ######    -Outcome
 
 
 
