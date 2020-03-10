@@ -79,6 +79,9 @@
 ![](Impact_Echo_Intro/Diagrams/adds01.jpg)
 
  
+###                     Detection
+####               Concrete Possible anomalies
+
 
 ![](Impact_Echo_Intro/Concrete_Imgs.jpg)
 
