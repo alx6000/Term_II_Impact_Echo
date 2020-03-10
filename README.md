@@ -2,25 +2,26 @@
 
 ![](Impact_Echo_Intro/Mario.gif) 
 
+Index 
 
--Proposal
+    -Proposal
 
--Non destructive testing
+    -Non destructive testing
 
--Impact Echo Method
+    -Impact Echo Method
 
--Overall System
-    -Diagram
-    -Possible evolutions
-    -Focus points
-
--Hardware
+    -Overall System
      -Diagram
-     -Piezo sensor configuration
+     -Possible evolutions
+        -Focus points
 
--Software
-     -Diagram
-     -Outcome
+    -Hardware
+       -Diagram
+        -Piezo sensor configuration
+
+    -Software
+        -Diagram
+         -Outcome
 
 
 
@@ -29,19 +30,24 @@
 
 **Description**
 
-A method for nondestructive testing of concrete and masonry structures that is based on the use of impact-generated stress (sound) waves that propagate through concrete and masonry and are reflected by internal flaws and external surfaces. 
+    A method for nondestructive testing of concrete and masonry structures that is based on the use of impact-generated stress (sound) waves that propagate through concrete and masonry and are reflected by internal flaws and external surfaces. 
 
 
-
+   
+   
 
 
 
 **Project_Scope**
 
-The goal of this study was to develop an impact-echo device that can conduct automatic oscillation tests, process signals rapidly, and apply it to concrete object anomaly analysis. The system presented in this study comprises three parts, namely the impact device, the oscillator circuit, and signal processing software.
+    The goal of this study was to develop an impact-echo device that can conduct automatic oscillation tests, process signals rapidly, and apply it to concrete object anomaly analysis. The system presented in this study comprises three parts, namely the impact device, the oscillator circuit, and signal processing software.
 
 ![](Impact_Echo_Intro/Intro1.jpg)
 
+
+Problem outline 
+
+    Possible applications 
 
 
 
