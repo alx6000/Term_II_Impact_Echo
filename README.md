@@ -129,7 +129,7 @@
 ## Grasshopper
 ![](Grasshopper/Diagrams/Matlab_Fs.png)
 
-![](Grasshopper/Diagrams/Cubes.png)
+![](Grasshopper/Diagrams/Cubes.gif)
 
 
 
