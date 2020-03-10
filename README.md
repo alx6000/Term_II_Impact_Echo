@@ -46,7 +46,7 @@ The goal of this study was to develop an impact-echo device that can conduct aut
 ![](Impact_Echo_Intro/Intro1.jpg)
 
 
-**Problem outline**
+# **Problem outline**
 
 **Possible applications**
 
