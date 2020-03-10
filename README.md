@@ -125,7 +125,6 @@
 ![](Audacity/200903_ImpactEcho_Concrete_Crack_Detection.png)
 
 ######   Identifying Anomalies
-![](Audacity/Anomalies.png)
 
 ###### * [Audacity](https://github.com/alx6000/Term_II_Impact_Echo/tree/master/Audacity)
 
