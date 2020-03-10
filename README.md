@@ -54,16 +54,11 @@
 ######   Possible applications
 
 
-![](Impact_Echo_Intro/Post_earthquake_damage_detection.jpg) 
- ###### Post earthquake damage detection
-        
-        
- ![](Impact_Echo_Intro/Post_earthquake_damage_detection1.jpg)
+      
+ ![](Impact_Echo_Intro/Post_earthquake_damage_detectionx.jpg)
  ###### Structural analysis for old building renovation
  
  
-  ![](Impact_Echo_Intro/Construction_Site_evaluation.jpg)
- ###### Construction-site evaluation 
 
 
 
