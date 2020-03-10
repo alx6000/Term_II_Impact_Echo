@@ -134,7 +134,7 @@
 ## Python
 ###### Experimentation - Visualisation
 
-![](Python/Python_G.gif)
+![](Python/Python_G1.gif)
 
 **Requirements**
 
