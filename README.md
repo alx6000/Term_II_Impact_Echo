@@ -78,7 +78,7 @@
 ![](Impact_Echo_Intro/Analysis.jpg)
 
 
-###                     Advantages & Applications
+###                     Advantages 
 
   ###### Only one surface needs to be accessible for testing.
 
