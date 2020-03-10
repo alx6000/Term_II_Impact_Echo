@@ -122,7 +122,6 @@
 
 ######   Denoising Recording
 
-###### Recording Generation & First Visualisation 
 ![](Audacity/200903_ImpactEcho_Concrete_Crack_Detection.png)
 
 ######   Identifying Anomalies
