@@ -7,7 +7,8 @@ A method for nondestructive testing of concrete and masonry structures that is b
 
 
 ![](Impact_Echo_Intro/Intro1.jpg)
-❮img src="Impact_Echo_Intro/Intro1.jpg" width="100" ❯
+
+❮img src="Impact_Echo_Intro/Mario.gif"❯
 
 
 **Project_Scope**
