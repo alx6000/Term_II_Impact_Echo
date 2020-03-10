@@ -78,10 +78,11 @@
 ![](Impact_Echo_Intro/Analysis.jpg)
 
 
+###                                 Impact echo
+######                     Advantages & Applications
 
 
-
-
+![](Impact_Echo_Intro/Advantages.jpg)
 
 
 **Requirements**
