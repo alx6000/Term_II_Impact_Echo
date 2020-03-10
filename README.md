@@ -126,6 +126,10 @@
 
 ######   Identifying Anomalies
 
+
+![](Audacity/Anomalies.png)
+
+
 ###### * [Audacity](https://github.com/alx6000/Term_II_Impact_Echo/tree/master/Audacity)
 
 
