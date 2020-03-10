@@ -59,7 +59,7 @@
  ###### Structural analysis for old building renovation
  
  
-  ![](Impact_Echo_Intro/Post_earthquake_damage_detection1.jpg)
+  ![](Impact_Echo_Intro/Construction_Site_evaluation.jpg)
  ###### Structural analysis for old building renovation
 
 
