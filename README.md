@@ -37,7 +37,7 @@
 
 * * The goal of this study was to develop an impact-echo device that can conduct automatic oscillation tests, process signals rapidly, and apply it to concrete object anomaly analysis. The system presented in this study comprises three parts, namely the impact device, the oscillator circuit, and signal processing software.
 
-![](Impact_Echo_Intro/Intro1.jpg)
+![](Impact_Echo_Intro/Intro2.jpg)
 
 
 ##  **Problem outline**
