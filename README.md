@@ -96,13 +96,12 @@
 
 
 
-###                    Grid Setup
-####              Grid Setup - Positioning Piezosensors & Selonoid
-#### Concrete Block Placement
+###                    Setup
+####              
 #### Measure Dimensions 
-#### Place the Grid		
+#### Generate the Grid		
 #### Put Sensor on strategic Point
-#### Hit on exact locations using the hammer
+#### Hit on exact locations using the Solonoid
 
 
 ![](Impact_Echo_Intro/HARDWARE-GIFxxx.gif)
