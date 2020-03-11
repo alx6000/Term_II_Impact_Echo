@@ -165,7 +165,16 @@
 
 ![](Grasshopper/Diagrams/Crack_Detection.png)
 
+
+
+## Future Research - Alternatives
+
+![](Impact_Echo_Intro/xxxx.png)
+
+
 ## Alternative Visualisation - Python
+
+
 ###### Experimentation - Visualisation
 
 
