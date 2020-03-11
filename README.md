@@ -131,7 +131,7 @@
 
 ![](Grasshopper/Diagrams/Crack_02.png)
 
-------------------------------------------------![](Impact_Echo_Intro/Awesome.jpg)------------------------------------------------------
+
 ## Python
 ###### Experimentation - Visualisation
 
