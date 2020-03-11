@@ -145,6 +145,8 @@
 ## Matlab
 ![](MATLAB/impact_echoXXX1.png)
 
+##### C = Distance (Sensors) / Mean (deltaT)
+
 ![](MATLAB/1q.png)
 
 ![](MATLAB/2q.png)
