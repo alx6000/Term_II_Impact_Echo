@@ -103,7 +103,7 @@
 #### Put Sensor on strategic Point
 #### Hit on exact locations using the Solonoid
 
-![](Impact_Echo_Intro/DiagramGridSetup09.jpg)
+![](Impact_Echo_Intro/Diagrams/DiagramGridSetup09.jpg)
 ![](Impact_Echo_Intro/HARDWARE-GIFxxx.gif)
 
 ## Software
