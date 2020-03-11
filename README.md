@@ -149,7 +149,10 @@
 
 ![](MATLAB/1q.png)
 
+.
 ![](MATLAB/2q.png)
+
+.
 ![](MATLAB/3q.png)
 
 ![](MATLAB/Matlab_Diagrams1x.jpg)
