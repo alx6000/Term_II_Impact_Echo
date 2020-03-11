@@ -155,6 +155,8 @@
 
 ![](Grasshopper/Diagrams/Crack_Detection.png)
 
+## Alternative Visualisation - Python
+###### Experimentation - Visualisation
 
 
 
@@ -163,9 +165,7 @@
 ![](Python/Python.png)
 
 
-## Alternative Visualisation - Python
-###### Experimentation - Visualisation
-
+###### 02
 
 ![](Python/Python_G2.gif)
 
