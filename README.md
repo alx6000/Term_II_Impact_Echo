@@ -79,7 +79,7 @@
 ###                     Overall System
 ![](Impact_Echo_Intro/Overall.png)
 
-###                     Application
+###                    Grid Setup
 ####              Grid Setup - Positioning Piezosensors & Selonoid
 #### Concrete Block Placement
 #### Measure Dimensions 
