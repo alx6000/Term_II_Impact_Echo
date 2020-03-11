@@ -169,10 +169,10 @@
 ![](Python/Python.png)
 
 
-###### Spectrogram Visualisation - Overlaying of two Mono waves (f/s)
 
 
- ![](Python/Spectrogram.jpg)
+
+
 
 
 
