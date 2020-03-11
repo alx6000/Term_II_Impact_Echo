@@ -162,6 +162,8 @@
 
 ###### Tangible Python Library Experimentation
 
+######  Tangible is a modular Library system with an intermediate representation of objects for soundwave 3d representation.
+
 ![](Python/Python.png)
 
 
