@@ -137,92 +137,145 @@
 
 ###### Usage
 ```python
-from math import log
-import matplotlib.mlab as mlab
-import numpy
-from tangible import ast, scales
-from tangible.backends.openscad import OpenScadBackend
-from tangible.shapes.bars import BarsND
-import wave
-import nfft
-
+import numpy as np
+from opensimplex import OpenSimplex
+import pyqtgraph.opengl as gl
+from pyqtgraph.Qt import QtCore, QtGui
+import struct
+import pyaudio
+import sys
 inPath = ''
 outPath = ''
 
-loggishness = 0.00000000000004
-nfft = 2**18
-padto = nfft/(2**13)
+class Terrain(object):
+    def __init__(self):
+        """
+        Initialize the graphics window and mesh surface
+        """
 
-padto = int (padto)
-print (type (nfft))
-print (type (padto))
+        # setup the view window
+        self.app = QtGui.QApplication(sys.argv)
+        self.window = gl.GLViewWidget()
+        self.window.setWindowTitle('Terrain')
+        self.window.setGeometry(0, 110, 1920, 1080)
+        self.window.setCameraPosition(distance=30, elevation=12)
+        self.window.show()
 
-def main():
+        # constants and arrays
+        self.nsteps = 1.3
+        self.offset = 0
+        self.ypoints = np.arange(-20, 20 + self.nsteps, self.nsteps)
+        self.xpoints = np.arange(-20, 20 + self.nsteps, self.nsteps)
+        self.nfaces = len(self.ypoints)
 
-  print ("Reading and analyzing file...")
-  spectrum, freqs =  ReadAndAnalyze(inPath)
-    
-  print (spectrum)
+        self.RATE = 44100
+        self.CHUNK = len(self.xpoints) * len(self.ypoints)
 
-  print (freqs)
+        self.p = pyaudio.PyAudio()
+        self.stream = self.p.open(
+            format=pyaudio.paInt16,
+            channels=1,
+            rate=self.RATE,
+            input=True,
+            output=True,
+            frames_per_buffer=self.CHUNK,
+        )
+
+        # perlin noise object
+        self.noise = OpenSimplex()
+
+        # create the veritices array
+        verts, faces, colors = self.mesh()
         
         
+        
 
-  print (len(freqs))
+        self.mesh1 = gl.GLMeshItem(
+            faces=faces,
+            vertexes=verts,
+            faceColors=colors,
+            drawEdges=True,
+            smooth=False,
+        )
+        self.mesh1.setGLOptions('additive')
+        self.window.addItem(self.mesh1)
 
-  print (len(spectrum[0]))
+    def mesh(self, offset=0, height=2.5, wf_data=None):
+
+        if wf_data is not None:
+            wf_data = struct.unpack(str(2 * self.CHUNK) + 'B', wf_data)
+            wf_data = np.array(wf_data, dtype='b')[::2] + 128
+            wf_data = np.array(wf_data, dtype='int32') - 128
+            wf_data = wf_data * 0.04
+            wf_data = wf_data.reshape((len(self.xpoints), len(self.ypoints)))
+        else:
+            wf_data = np.array([1] * 1024)
+            wf_data = wf_data.reshape((len(self.xpoints), len(self.ypoints)))
+
+        faces = []
+        colors = []
+        verts = np.array([
+            [
+                x, y, wf_data[xid][yid] * self.noise.noise2d(x=xid / 5 + offset, y=yid / 5 + offset)
+            ] for xid, x in enumerate(self.xpoints) for yid, y in enumerate(self.ypoints)
+        ], dtype=np.float32)
+
+        for yid in range(self.nfaces - 1):
+            yoff = yid * self.nfaces
+            for xid in range(self.nfaces - 1):
+                faces.append([
+                    xid + yoff,
+                    xid + yoff + self.nfaces,
+                    xid + yoff + self.nfaces + 1,
+                ])
+                faces.append([
+                    xid + yoff,
+                    xid + yoff + 1,
+                    xid + yoff + self.nfaces + 1,
+                ])
+                colors.append([
+                    xid / self.nfaces, 1 - xid / self.nfaces, yid / self.nfaces, 0.3
+                ])
+                colors.append([
+                    xid / self.nfaces, 1 - xid / self.nfaces, yid / self.nfaces, 0.5
+                ])
+
+        faces = np.array(faces, dtype=np.uint32)
+        colors = np.array(colors, dtype=np.float32)
+
+        return verts, faces, colors
+
+    def update(self):
+        """
+        update the mesh and shift the noise each time
+        """
+
+        wf_data = self.stream.read(self.CHUNK)
+
+        verts, faces, colors = self.mesh(offset=self.offset, wf_data=wf_data)
+        self.mesh1.setMeshData(vertexes=verts, faces=faces, faceColors=colors)
+        self.offset -= 0.05
+
+    def start(self):
+        """
+        get the graphics window open and setup
+        """
+        if (sys.flags.interactive != 1) or not hasattr(QtCore, 'PYQT_VERSION'):
+            QtGui.QApplication.instance().exec_()
+
+    def animation(self, frametime=10):
+        """
+        calls the update method to run in a loop
+        """
+        timer = QtCore.QTimer()
+        timer.timeout.connect(self.update)
+        timer.start(frametime)
+        self.start()
 
 
-  print ("Scaling logarithmically (kinda)...")
-  for i, s in enumerate(spectrum):
-    spectrum[i] =list(map(loggish, s))
-
-  print ("Generating linear scale...")
-  scale = scales.linear(domain=[spectrum.min(), spectrum.max()],
-                        codomain=[1, 10])
-
-  print ("Normalizing spectrum data...")
-  datapoints = list(map(lambda x:list(map(scale, x)), spectrum))
-
-  print ("Trimming spectrum data post-normalization...")
-  for i, x in enumerate(datapoints):
-    for j, v in enumerate(x):
-        if v > 9:
-          datapoints[i][j] = 9
-
-  print ("Generating bars...")
-  bars = BarsND(datapoints,
-                bar_width=1,
-                bar_depth=1)
-
-  print ("Rendering...")
-  code = bars.render(backend=OpenScadBackend)
-
-  print ("Saving to file...")
-  with open(outPath, "w") as f:
-      f.write(code)
-
-def loggish(v):
-  v = float(v)
-  L = loggishness
-  return L * (log(v) - v) + v
-
-def ReadAndAnalyze(f):
-    wav = wave.open(f, 'r')
-    frames = wav.readframes(-1)
-    sound_info = numpy.fromstring(frames, 'Int16')
-    frame_rate = wav.getframerate()
-    wav.close()
-    specdata = mlab.specgram(sound_info,
-                             NFFT=nfft,
-                             pad_to=padto,
-                             Fs=frame_rate)
-    spectrum = specdata[0]
-    freqs = specdata[1]
-    return spectrum, freqs
-
-if __name__ == "__main__":
-  main()
+if __name__ == '__main__':
+    t = Terrain()
+    t.animation()
 ```
 
 ![](Python/Python_G2.gif)
