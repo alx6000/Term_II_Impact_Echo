@@ -74,6 +74,9 @@
 ####               Concrete Possible anomalies
 
 
+###                     Overall System
+![](Impact_Echo_Intro/Overall.png)
+
 ![](Impact_Echo_Intro/Concrete_Imgs.jpg)
 
 ###                     Application
