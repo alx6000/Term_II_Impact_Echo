@@ -135,14 +135,7 @@
 ## Python
 ###### Experimentation - Visualisation
 
-   from math import log
-   import matplotlib.mlab as mlab
-   import numpy
-   from tangible import ast, scales
-   from tangible.backends.openscad import OpenScadBackend
-   from tangible.shapes.bars import BarsND
-   import wave
-   import nfft
+  
 
 ![](Python/Python_G2.gif)
 
