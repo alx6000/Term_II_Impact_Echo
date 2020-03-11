@@ -74,10 +74,10 @@
 ####               Concrete Possible anomalies
 
 
+![](Impact_Echo_Intro/Concrete_Imgs.jpg)
+
 ###                     Overall System
 ![](Impact_Echo_Intro/Overall.png)
-
-![](Impact_Echo_Intro/Concrete_Imgs.jpg)
 
 ###                     Application
 ####              Grid Setup - Positioning Piezosensors & Selonoid
