@@ -92,7 +92,6 @@
 
 ![](Impact_Echo_Intro/Diagrams/Setup01f.png)
 
-![](Impact_Echo_Intro/Diagrams/Setup02xx.png)
 
 
 
