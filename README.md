@@ -169,7 +169,7 @@
 
 
 ###### Experiment Two - Drone Cage
-![](Grasshopper/Diagrams/grasshopper.png)
+![](Grasshopper/Diagrams/grasshopper1.png)
 ## Future Research - Alternatives
 
 ![](Impact_Echo_Intro/xxxx.png)
