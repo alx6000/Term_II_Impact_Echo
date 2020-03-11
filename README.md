@@ -145,7 +145,11 @@
 ## Matlab
 ![](MATLAB/impact_echoXXX1.png)
 
-![](MATLAB/Matlab_F.png)
+![](MATLAB/1q.png)
+
+![](MATLAB/2q.png)
+![](MATLAB/3q.png)
+
 ![](MATLAB/Matlab_Diagrams1x.jpg)
 
 ###### * [MATLAB](https://github.com/alx6000/Term_II_Impact_Echo/tree/master/SignView)
