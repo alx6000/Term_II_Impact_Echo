@@ -163,10 +163,13 @@
 ## Grasshopper
 ![](Grasshopper/Diagrams/Matlab_Analysis_gh.jpg)
 
+
+###### Experiment One - Concrete Block
 ![](Grasshopper/Diagrams/Crack_Detection.png)
 
 
-
+###### Experiment Two - Drone Cage
+![](Grasshopper/Diagrams/grasshopper.png)
 ## Future Research - Alternatives
 
 ![](Impact_Echo_Intro/xxxx.png)
