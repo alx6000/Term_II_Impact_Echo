@@ -97,7 +97,7 @@
 * [TRS  Audio Cable](https://www.thomann.de/es/cae_audiokabel_30.htm?glp=1&gclid=EAIaIQobChMI1uv817CS6AIVmYbVCh35Ywb4EAQYASABEgI4DvD_BwE)
 
 ![](Impact_Echo_Intro/Diagrams/Setup01f.png)
-![](Impact_Echo_Intro/Diagrams/200903_ImpactEcho_Concrete_Crack_Detection.jpg)
+![](Impact_Echo_Intro/Diagrams/Wiring1.jpg)
 
 
 
