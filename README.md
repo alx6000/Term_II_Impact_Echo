@@ -88,9 +88,9 @@
 #### Hit on exact locations using the hammer
 
 
-![](Impact_Echo_Intro/Diagrams/Setup01.png)
+![](Impact_Echo_Intro/Diagrams/Setup01f.png)
 
-![](Impact_Echo_Intro/Diagrams/Setup02.png)
+![](Impact_Echo_Intro/Diagrams/Setup02xx.png)
 
 ![](Impact_Echo_Intro/HARDWARE-GIFxxx.gif)
 
