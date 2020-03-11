@@ -156,6 +156,13 @@
 ![](Grasshopper/Diagrams/Crack_Detection.png)
 
 
+
+
+###### Tangible Python Library Experimentation
+
+![](Python/Python.png)
+
+
 ## Alternative Visualisation - Python
 ###### Experimentation - Visualisation
 
@@ -164,9 +171,6 @@
 
 
 
-###### Tangible Python Library Experimentation
-
-![](Python/Python.png)
 
 
 
