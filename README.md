@@ -161,7 +161,7 @@
 ###### * [MATLAB](https://github.com/alx6000/Term_II_Impact_Echo/tree/master/SignView)
 
 ## Grasshopper
-![](Grasshopper/Diagrams/Matlab_Fs.png)
+![](Grasshopper/Diagrams/Matlab_Analysis_gh.jpg)
 
 ![](Grasshopper/Diagrams/Crack_Detection.png)
 
