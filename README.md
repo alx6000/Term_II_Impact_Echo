@@ -90,8 +90,12 @@
 
 * [Solenoide lineal JF-0530B DC 6V](https://es.aliexpress.com/item/32777233179.html?src=google&src=google&albch=shopping&acnt=494-037-6276&isdl=y&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&aff_short_key=UneMJZVf&&albagn=888888&albcp=2047572441&albag=80829465588&trgt=743612850714&crea=es32777233179&netw=u&device=c&gclid=Cj0KCQjw9ZzzBRCKARIsANwXaeJAHvqxwToeQxN1fF6SR_idYwqZ86CJYnfg62FfIt5rNuWJnqDRZcwaAmQmEALw_wcB&gclsrc=aw.ds)
 
-![](Impact_Echo_Intro/Diagrams/Setup01f.png)
+* [Preamp HiLetgo 5pcs LM38](https://www.amazon.es/HiLetgo-LM386-Amplificador-unidades-Raspberry/dp/B0797DK2G1/ref=sr_1_3?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=LM386&qid=1580224629&s=industrial&sr=1-3)
 
+* [TRS  Audio Cable](https://www.thomann.de/es/cae_audiokabel_30.htm?glp=1&gclid=EAIaIQobChMI1uv817CS6AIVmYbVCh35Ywb4EAQYASABEgI4DvD_BwE)
+
+![](Impact_Echo_Intro/Diagrams/Setup01f.png)
+![](Impact_Echo_Intro/Diagrams/Wiring.jpg)
 
 
 
